@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @whoship
-- 👀 I’m a certified paster
-- 🌱 I’m currently learning pasting
-- 💞️ I’m looking to collaborate on pastes
-- 📫 How to reach me xsi#0001
+lmfao
 
 <!---
 whoship/whoship is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
